@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header with Holographic Effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=PRACHI%20P&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Backend%20Architect%20%7C%20Creative%20Coder&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,9,20,30,64&height=200&section=header&text=PRACHI%20P&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Backend%20Architect%20%7C%20Creative%20Coder&descAlignY=55&descSize=18"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Self-confident+%7C+Passionate+%7C+Best+Communicator;Artist+%7C+Logic+Builder+%7C+Kind-hearted;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Self-confident+%7C+Passionate+%7C+Best+Communicator;Artist+%7C+Logic+Builder+%7C+Kind-hearted;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;Always+coding+with+a+smile+%F0%9F%98%8A+and+Bollywood+beats+%F0%9F%8E%B5" alt="Typing SVG" />
 
 <!-- Matrix Rain Effect -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -69,12 +69,20 @@ const prachi = {
 
 ## 📊 GitHub Analytics
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=PRACHIP5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=PRACHIP5&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=PRACHIP5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PRACHIP5&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+</p>
 
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=PRACHIP5&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true"/>
+<p align="center">
+<img width="54%" src="https://github-readme-activity-graph.vercel.app/graph?username=PRACHIP5&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true"/>
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRACHIP5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8"/>
+</p>
 
-<img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRACHIP5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+<!-- Additional GitHub Metrics -->
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PRACHIP5&theme=tokyonight"/>
+</p>
 
 </div>
 
@@ -234,7 +242,7 @@ const prachi = {
 
 ### 🌟 "Building the future, one commit at a time" 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,9,20,30,64&height=120&section=footer&animation=twinkling"/>
 
 </div>
 
