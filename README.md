@@ -85,7 +85,7 @@ const prachi = {
 </div>
 
 ---
-
+[![An image of @prachip5202's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prachip5202)](https://holopin.io/@prachip5202)
 <div align="center">
 
 ## 📊 GitHub Analytics
